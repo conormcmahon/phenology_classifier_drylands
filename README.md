@@ -1,2 +1,4 @@
 # phenology_classifier_drylands
-Classifier for vegetation in drylands basd on phenology and other metrics
+Example code for classifying dryland riparian vegetation types using satellite-derived phenology and other metrics.
+
+Instructions to be added. 
