@@ -6,8 +6,8 @@ NOTE - this repository makes use of git large file storage. You will need to [do
 
 Example maps of vegetation maps produced for several focal sites, with riparian woodlands highlighted in red:
 
-<a href="url"><img src="https://raw.githubusercontent.com/conormcmahon/phenology_classifier_drylands/main/figures/class_plots.png" align="center" width="600" ></a>
+<a href="url"><img src="https://raw.githubusercontent.com/conormcmahon/phenology_classifier_drylands/main/output_plots/class_plots.png" align="center" width="600" ></a>
 
 Accuracy statistics and variable importance for classifier tests:
 
-<a href="url"><img src="https://raw.githubusercontent.com/conormcmahon/phenology_classifier_drylands/main/figures/variable_importance.png" align="center" width="600" ></a>
+<a href="url"><img src="https://raw.githubusercontent.com/conormcmahon/phenology_classifier_drylands/main/output_plots/variable_importance.png" align="center" width="600" ></a>
