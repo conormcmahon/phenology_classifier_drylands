@@ -4,5 +4,7 @@
 .Ruserdata
 random_forest_results
 */
+*.zip
+
 !output_plots/
 !class_outputs/
